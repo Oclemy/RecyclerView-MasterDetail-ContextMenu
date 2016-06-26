@@ -5,6 +5,7 @@ package com.tutorials.hp.recyclercontextmenumasterdetail.Master.Data;
  */
 public class Movie {
 
+//Movie properties
     private String name;
     private int image;
 
