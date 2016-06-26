@@ -1,7 +1,7 @@
 package com.tutorials.hp.recyclercontextmenumasterdetail.Master.Data;
 
 /**
- * Created by Oclemmy on 4/8/2016 for ProgrammingWizards Channel.
+ * Created by Oclemmy on 4/8/2016 for ProgrammingWizards Channel.Is the data object
  */
 public class Movie {
 
